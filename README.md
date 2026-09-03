@@ -5,6 +5,7 @@ These are my coding-stats: <br>
 
 🔭 **I’m currently working on:** [My own website](https://tom-schmidt.dev) where I introduce myself. It runs selfhosted on on my homeserver and [is written by an AI agent alongside me](https://wakatime.com/@c227c5db-44d8-4c2c-b3fa-35ee3f5f0f0b/projects/pejfwudxuk?start=2026-08-28&end=2026-09-03) (OpenCode with Gemini 3.7 Flash).
 
+<br>
 
 
 🔭 **I’m currently working on:** My first Android App and learning Kotlin! Following the [Clean Architecture Tutorial by Philipp Lackner](https://www.youtube.com/watch?v=8YPXv7xKh2w).
